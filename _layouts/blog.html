@@ -21,8 +21,8 @@
 			
 			<div id='side-bar'>
 				<div id='user'>
-					<img id="user-pic" src="{{site.author_img_name_path}}" />
-					<div id='user-name'>{{site.first_name}} {{site.last_name}}</div>
+					<img id="user-pic" src="{{page.author_img}}" />
+					<div id='user-name'>{{page.author}}</div>
 				</div>
 				<div id='date'>
 					{{ page.date | date: "%B %d, %Y"}}
@@ -30,7 +30,7 @@
 				<br>
 				<br>
 				<div id='date'>
-					{{site.aboutme}}
+					{{page.aboutme}}
 				</div>
 				<div id='tags'>
 					{% for tag in page.tags %}
