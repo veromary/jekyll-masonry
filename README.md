@@ -1,12 +1,6 @@
-#Jekyll Masonry Theme
+#Portraits from Photos
 
-This using masonry griding to give a nice design
-
-Demo - [http://pasindud.github.io/](http://pasindud.github.io/)
-
-Dev by Pasindu De Silva
-
-Was orignial authored by [Arunoda](https://github.com/arunoda)
+Started from the Jekyll Masonry Theme.
 
 Now becoming the starting point for a blog about portrait artists.
 

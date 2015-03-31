@@ -1,4 +1,5 @@
 permalink: /:categories/:title.html
+baseurl: ""
 url: "http://www.portraitsfrom.photos"
 #url: "http://localhost:4000"
 full_name: "Portraits from Photos"
