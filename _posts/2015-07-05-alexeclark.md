@@ -2,7 +2,7 @@
 layout: blog
 title: Alex E Clark
 category: blog
-summary: Artist for hire.
+summary: Fantastic, bright portraits plus comics, animation and quick sketches.
 image: /images/blog/alexeclark.png
 author: Veronica Brandt
 aboutme: Web page person married to a portrait artist.
