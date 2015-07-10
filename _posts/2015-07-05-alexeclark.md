@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Alex E Clark
+title: Alex E Clark from Melbourne, Australia
 category: blog
 summary: Fantastic, bright portraits plus comics, animation and quick sketches.
 image: /images/blog/alexeclark.png
