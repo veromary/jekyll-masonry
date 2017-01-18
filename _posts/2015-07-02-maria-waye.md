@@ -13,7 +13,7 @@ I came across Maria's work through [Etsy](http://www.etsy.com) looking for examp
 
 ![Some of Maria's portraits]({{ site.url }}/images/blog/mariawaye.jpg)
 
-Sifting through Etsy's portrait offerings can be frustrating as there is a huge range of talent and interpretations as to what constitutes a hand drawn portrait.  I keep a [treasury list](https://www.etsy.com/au/treasury/MzE2MTQzMjl8MjcyNDU3NjkxNg/custom-portraits) of good ones.
+Sifting through Etsy's portrait offerings can be frustrating as there is a huge range of talent and interpretations as to what constitutes a hand drawn portrait. For my purposes I'm looking for an actual, physical, pigment on surface applied by hand (or foot, or mouth) and drawing stick (including brush, pen, pencil, crayon, you get the idea?).
 
 Maria's work goes far beyond just "good".  She is a full fledged award-winning artist who has a beautifully light way with colour.
 
